@@ -1,0 +1,9 @@
+discord.py
+fastapi
+uvicorn
+openai
+python-dotenv
+httpx
+jinja2
+yt-dlp
+aiohttp
